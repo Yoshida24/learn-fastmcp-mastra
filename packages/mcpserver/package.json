@@ -1,0 +1,23 @@
+{
+    "name": "learn-fastmcp-mastra",
+    "version": "0.0.0",
+    "description": "fastmcp + mastra入門",
+    "main": "index.js",
+    "scripts": {
+        "start": "deno run --allow-all src/count-string-length/index.ts",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Yoshida24/learn-fastmcp-mastra.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Yoshida24/learn-fastmcp-mastra/issues"
+    },
+    "homepage": "https://github.com/Yoshida24/learn-fastmcp-mastra#readme",
+    "dependencies": {
+        "fastmcp": "1.21.0"
+    }
+}
