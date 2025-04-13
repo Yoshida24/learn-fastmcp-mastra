@@ -31,6 +31,7 @@ MCP:
 ```
 
 Cursor Agent での利用イメージ:
+
 ![img](docs/img/mcp-demo-cursor.png)
 
 ## メモ
